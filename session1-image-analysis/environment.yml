@@ -1,0 +1,14 @@
+# run: conda env create --file environment.yml
+name: plantcv
+dependencies:
+  - python=3.7
+  - nb_conda
+  - plantcv=3.8
+  - r-base
+  - r-dplyr
+  - r-ggridges
+  - r-irkernel
+channels:
+  - defaults
+  - conda-forge
+  - bioconda
