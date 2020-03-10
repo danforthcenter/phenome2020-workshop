@@ -20,7 +20,7 @@ Instructors: Haley Schuhl, Malia Gehan, and Noah Fahlgren (Donald Danforth Plant
 
 ### Session 2: Deep Learning using Deep Plant Phenomics
 
-This hands-on section will guide participants through training a deep convolutional neural network for counting wheat heads in aerial field images using the [Deep Plant Phenomics]() software.
+This hands-on section will guide participants through training a deep convolutional neural network for counting sorghum panicles in aerial field images using the [Deep Plant Phenomics]() software.
 
 Instructor: Jordan Ubbens (University of Saskatchewan)
 
