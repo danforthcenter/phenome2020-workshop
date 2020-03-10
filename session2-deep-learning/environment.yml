@@ -1,0 +1,12 @@
+# run: conda env create --file environment.yml
+name: dpp
+dependencies:
+  - python=3.6
+  - nb_conda
+  - pip
+  - pip:
+    - git+https://github.com/p2irc/deepplantphenomics.git
+channels:
+  - defaults
+  - conda-forge
+  - bioconda
