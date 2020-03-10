@@ -1,0 +1,3 @@
+[submodule "session3-hyperspectral-image-analysis/HyperspectralAnalysisIntroduction"]
+	path = session3-hyperspectral-image-analysis/HyperspectralAnalysisIntroduction
+	url = https://github.com/GatorSense/HyperspectralAnalysisIntroduction
