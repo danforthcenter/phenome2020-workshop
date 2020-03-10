@@ -19,3 +19,5 @@ Prior to the workshop we set up environments for each participant using Amazon W
 ```bash
 conda env create --file environment.yml
 ```
+
+Alternatively, follow the instructions at https://github.com/GatorSense/HyperspectralAnalysisIntroduction.
