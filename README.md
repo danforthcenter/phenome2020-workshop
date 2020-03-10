@@ -1,9 +1,14 @@
 # Phenome 2020 Digital Phenotyping Workshop
 
-Phenome 2020 Digital Phenotyping workshop materials. 
-
+This repository contains materials from the Phenome 2020 Digital Phenotyping workshop. 
 
 The Phenome 2020 Digital Phenotyping Workshop gave participants hands-on experience processing data from state-of-the-art image-based phenotyping technologies with domain experts. Topics covered included: Image processing of 2D images, hyperspectral image processing, and machine learning.
+
+To clone the repository, including linked repositories using `git`:
+
+```bash
+git clone --recurse-submodules https://github.com/danforthcenter/phenome2020-workshop.git
+```
 
 ## Session Topics
 
