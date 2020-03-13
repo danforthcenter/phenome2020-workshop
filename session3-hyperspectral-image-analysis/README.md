@@ -21,3 +21,11 @@ conda env create --file environment.yml
 ```
 
 Alternatively, follow the instructions at https://github.com/GatorSense/HyperspectralAnalysisIntroduction.
+
+Start Jupyter:
+
+```bash
+jupyter notebook
+```
+
+Then open each of the notebooks to work through the exercises.
